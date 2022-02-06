@@ -6,7 +6,7 @@ Expressjs middleware providing support to [JSON22](https://github.com/dancecoder
 * Parse [JSON22](https://github.com/dancecoder/json22#readme) body content
 * Parse JSON body content
 * Support for `deflate`, `gzip`, `br` content encodings
-* Define Request.json22 method to send [JSON22](https://github.com/dancecoder/json22#readme) encoded data 
+* Define Request.json22 method to send [JSON22](https://github.com/dancecoder/json22#readme) serialized data 
 * Zero-dependency npm-package (depends on JSON22 only)
 * Both CJS/ESM modules support
 
